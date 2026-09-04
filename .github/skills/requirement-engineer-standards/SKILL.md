@@ -1,6 +1,7 @@
 ---
 name: requirement-engineer-standards
 description: Checklist for reviewing a PR diff from a Requirement Engineer point of view — requirement coverage and AI-tooling process compliance.
+version: 1.0.0
 ---
 
 # Requirement Engineer Review Standards

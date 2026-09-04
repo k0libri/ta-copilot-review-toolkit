@@ -1,6 +1,7 @@
 ---
 name: requirements-automation-exercise
 description: Task requirements for the Automation Exercise UI + API Hybrid Test Automation task.
+version: 1.0.0
 ---
 
 # Task: Automation Exercise — UI + API Hybrid Test Automation

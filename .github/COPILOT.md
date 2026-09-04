@@ -14,6 +14,10 @@ them for mentor review.
 | `skills/requirements-restful-booker/SKILL.md` | Skill | Task requirements for the Restful-Booker task. |
 | `skills/requirements-automation-exercise/SKILL.md` | Skill | Task requirements for the Automation Exercise task. |
 
+Each agent and skill declares its version in YAML frontmatter. The current toolkit release is
+recorded in the repository root [VERSION](../VERSION), with changes recorded in
+[CHANGELOG.md](../CHANGELOG.md).
+
 ## How to use
 
 In VS Code Copilot Chat, run:

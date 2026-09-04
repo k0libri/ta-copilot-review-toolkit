@@ -5,6 +5,9 @@ own pull request **before** you open it for mentor review. It checks your code a
 task requirements, architecture standards, and the Definition of Done — so you can fix the
 easy issues yourself first.
 
+Current toolkit version: `1.0.0`. See [VERSION](VERSION) for the central version and
+[CHANGELOG.md](CHANGELOG.md) for release history.
+
 The toolkit lives in a separate repository. Follow the steps below **once** to bring it into
 your own project repository.
 

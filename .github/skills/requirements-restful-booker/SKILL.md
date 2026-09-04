@@ -1,6 +1,7 @@
 ---
 name: requirements-restful-booker
 description: Task requirements for the Restful-Booker API Test Automation task.
+version: 1.0.0
 ---
 
 # Task: Restful-Booker API Test Automation

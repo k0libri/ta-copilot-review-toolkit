@@ -1,12 +1,21 @@
 ---
 name: software-engineer-standards
 description: Checklist for reviewing a PR diff from a Senior Software Engineer point of view — code quality, architecture, and design.
+version: 1.0.0
 ---
 
 # Software Engineer Review Standards
 
 Use this checklist to review a PR diff. Focus only on code quality and architecture. Do not
 comment on requirement coverage or test design — other specialists check those.
+
+## Default Severity
+
+| Finding | Default severity |
+| --- | --- |
+| Missing Service Layer or Page Object Model | Critical |
+| Hardcoded data, DRY violation, or missing Factory / Builder | Should Fix |
+| KISS or YAGNI over-engineering | Suggestion |
 
 ## 1. Core Principles
 
