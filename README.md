@@ -80,7 +80,7 @@ changes, and give you a review report grouped by **Critical**, **Should Fix**, a
 
 Run this **before** opening your PR. Fix what you can, then open the PR for mentor review.
 
-For more details about the individual files, see `.github/README.md`.
+For more details about the individual files, see `.github/COPILOT.md`.
 
 ## Getting updates later
 
